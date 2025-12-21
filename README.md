@@ -29,11 +29,8 @@
 - 🔭 Working on social impact tech projects
 - 🌱 Learning advanced AI and full-stack development
 - 💬 Ask me about **AI for social good**, **women's safety tech**, or **mental health apps**
-- 📫 Reach me: [seu email] | [LinkedIn se tiver]
+- 📫 Reach me: [Email](adriellyinocencio@ucsb.edu) | [LinkedIn](https://www.linkedin.com/in/adriellyinocencio/)
 - 🇧🇷🇺🇸 Fluent in Portuguese & English
-
-## 📊 GitHub Stats
-![Adrielly's GitHub stats](https://github-readme-stats.vercel.app/api?username=adriinocencio&show_icons=true&theme=radical)
 
 ---
 💜 *"Technology should serve humanity, especially the most vulnerable"*
